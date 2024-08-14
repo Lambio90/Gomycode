@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Title</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Lien vers un fichier CSS externe -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</b></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><link rel="stylesheet" type="text/css" href="rabbi.css"></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="hmaison">
+            <h2>Home Section</h2>
+            <p>This is the home section.</p>
+        </section>
+
+        <
